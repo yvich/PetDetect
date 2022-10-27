@@ -2,11 +2,12 @@
 Creation of an android app that helps any user to monitor his pets
 
  ## Team Members:
-
- [*Aminata*](https://github.com/programer653)
- [*Yves*](https://github.com/yvich)
- [*Emily*](https://github.com/dange2)
- [*Alexa*](https://github.com/alexaLL2000)
+ - [*cindy*](https://github.com/cindykhin)
+ - [*Aminata*](https://github.com/programer653)
+ - [*Yves*](https://github.com/yvich)
+ - [*Emily*](https://github.com/dange2)
+ - [*Alexa*](https://github.com/alexaLL2000)
+ 
  
 
 
@@ -14,7 +15,7 @@ Creation of an android app that helps any user to monitor his pets
 Android studio and arduino programming 
 - xml (Front-End)
 - java (backend)
--  SQL , firebase (DataBase)
+- SQL , firebase (DataBase)
 
 
  ## Core Features
