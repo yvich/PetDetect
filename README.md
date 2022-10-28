@@ -8,6 +8,7 @@ Creation of an android app that helps any user to monitor his pets
  - [*Yves*](https://github.com/yvich)
  - [*Emily*](https://github.com/dange2)
  - [*Alexa*](https://github.com/alexaLL2000)
+ - [*Sam*](https://github.com/LOVELOVECHAINSAW)
  
  
 
