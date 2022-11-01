@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.home.HomeFragment">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvcustomerwelcometxt"
+                android:text="Welcome"
+                android:textSize="20sp"
+
+                android:layout_marginTop="30dp"
+                android:textAlignment="center"
+                android:fontFamily="@font/quicksandregular"
+                >
+
+            </TextView>
+            <ListView
+                android:id="@+id/listView"
+                android:layout_width="wrap_content"
+                android:layout_height="533dp"
+                android:layout_marginTop="30dp"
+                android:layout_weight="9"
+
+                tools:listitem="@layout/customlist" />
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>
