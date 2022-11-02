@@ -1,6 +1,6 @@
 # COEN/ELEC 390
 # PetDetect
-Creation of an android app that helps any user to monitor his pets
+Creation of an android app that helps any user to monitor their pets using motion sensors.
 
  ## Team Members:
  - [*cindy*](https://github.com/cindykhin)
@@ -23,9 +23,9 @@ Android studio and arduino programming
  ## Core Features
  
  - Pet detection
- - Notification and picture received if pet leave 
+ - Notification and picture received when pet enters and leaves a room 
  - data hiding 
- - history of pet movement for better monotoring , etc 
+ - history of pet movement for better monotoring, etc 
 
 
  
