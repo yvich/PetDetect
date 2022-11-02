@@ -3,7 +3,7 @@
 Creation of an android app that helps any user to monitor their pets using motion sensors.
 
  ## Team Members:
- - [*cindy*](https://github.com/cindykhin)
+ - [*Cindy*](https://github.com/cindykhin)
  - [*Aminata*](https://github.com/programer653)
  - [*Yves*](https://github.com/yvich)
  - [*Emily*](https://github.com/dange2)
