@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">PetDetect</string>
-    <drawable name="etbackground" />
-    <drawable name="logo" />
-</resources>
